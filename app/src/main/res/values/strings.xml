@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaboratorioCalificado01</string>
+    <string name="flecha"><![CDATA[->]]></string>
+    <string name="flechaOtroLado"><![CDATA[<-]]></string>
+</resources>
